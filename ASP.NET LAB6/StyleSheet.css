@@ -1,0 +1,28 @@
+﻿.Header {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    height: 60px;
+    margin-left: 175px;
+    margin-right: 180px;
+}
+
+.leftPanel {
+    position: absolute;
+    top: 70px;
+    left: 10px;
+    width: 50px;
+}
+
+.rightPanel {
+    position: absolute;
+    top: 70px;
+    right: 10px;
+    width: 160px;
+}
+
+
+
+
+body {
+}
